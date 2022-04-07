@@ -141,10 +141,10 @@ transform: translateX(-207px);
 
 
 .card.youtube-card{
-    margin: auto;
-    height: 300px;  
-width: 450px;
-border-radius: 0px;
+    margin: auto !important;
+    height: 300px !important;  
+width: 450px !important;
+border-radius: 0px !important;
 }
 
 .youtube-card img{
